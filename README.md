@@ -6,3 +6,5 @@
 |GPU | AMD Radeon Pro WX 7100 |
 |Memory | G.Skill F4-2666C19Q2-256GTRG (8x32GB) |
 |WIFI/BT | fenvi T919 |
+
+**The memory must work at DDR4 2200MHz, the motherboard only recognize 128G at 2666MHz**
