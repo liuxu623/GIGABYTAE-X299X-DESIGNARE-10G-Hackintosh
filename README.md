@@ -2,7 +2,7 @@
 | Hardware | Model |
 | :----:| :----: |
 |MotherBoard | Gigabyte X299X DESIGNARE 10G @ BIOS F3j|
-|CPU | Intel i9-10980XE |
+|CPU | Intel Core i9-10980XE |
 |GPU | AMD Radeon Pro WX 7100 |
 |Memory | G.Skill F4-2666C19Q2-256GTRG (8x32GB) |
 |WIFI/BT | fenvi T919 |
